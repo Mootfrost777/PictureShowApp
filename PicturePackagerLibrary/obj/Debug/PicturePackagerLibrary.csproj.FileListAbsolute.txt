@@ -1,0 +1,12 @@
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PicturePackagerLibrary\bin\Debug\PicturePackagerLibrary.dll
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PicturePackagerLibrary\bin\Debug\PicturePackagerLibrary.pdb
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PicturePackagerLibrary\obj\Debug\PicturePackagerLibrary.csproj.AssemblyReference.cache
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PicturePackagerLibrary\obj\Debug\PicturePackagerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PicturePackagerLibrary\obj\Debug\PicturePackagerLibrary.dll
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PicturePackagerLibrary\obj\Debug\PicturePackagerLibrary.pdb
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PicturePackagerLibrary\bin\Debug\PicturePackagerLibrary.dll
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PicturePackagerLibrary\bin\Debug\PicturePackagerLibrary.pdb
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PicturePackagerLibrary\obj\Debug\PicturePackagerLibrary.csproj.AssemblyReference.cache
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PicturePackagerLibrary\obj\Debug\PicturePackagerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PicturePackagerLibrary\obj\Debug\PicturePackagerLibrary.dll
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PicturePackagerLibrary\obj\Debug\PicturePackagerLibrary.pdb

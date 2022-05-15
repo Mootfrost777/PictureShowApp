@@ -1,0 +1,36 @@
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp\PictureShowServer\bin\Debug\PictureShowServer.exe.config
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp\PictureShowServer\bin\Debug\PictureShowServer.exe
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp\PictureShowServer\bin\Debug\PictureShowServer.pdb
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.csproj.AssemblyReference.cache
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.Properties.Resources.resources
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.csproj.GenerateResource.cache
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.csproj.CoreCompileInputs.cache
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.exe
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.pdb
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowServer\bin\Debug\PictureShowServer.exe.config
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowServer\bin\Debug\PictureShowServer.exe
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowServer\bin\Debug\PictureShowServer.pdb
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.csproj.AssemblyReference.cache
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.ConfigurePicturesDialog.resources
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.PictureShowServer.resources
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.Properties.Resources.resources
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.csproj.GenerateResource.cache
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.csproj.CoreCompileInputs.cache
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.exe
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.pdb
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowServer\bin\Debug\PictureShowServer.exe.config
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowServer\bin\Debug\PictureShowServer.exe
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowServer\bin\Debug\PictureShowServer.pdb
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.csproj.AssemblyReference.cache
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.ConfigureMulticastDialog.resources
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.ConfigurePicturesDialog.resources
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.PictureShowServer.resources
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.Properties.Resources.resources
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.csproj.GenerateResource.cache
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.csproj.CoreCompileInputs.cache
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.exe
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.pdb
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowServer\obj\Debug\PictureShowServer.ConfigureShowDialog.resources

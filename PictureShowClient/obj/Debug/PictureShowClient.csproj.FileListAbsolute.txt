@@ -1,0 +1,20 @@
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowClient\bin\Debug\PictureShowClient.exe.config
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowClient\bin\Debug\PictureShowClient.exe
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowClient\bin\Debug\PictureShowClient.pdb
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowClient\obj\Debug\PictureShowClient.csproj.AssemblyReference.cache
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowClient\obj\Debug\PictureShowClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowClient\obj\Debug\PictureShowClient.Properties.Resources.resources
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowClient\obj\Debug\PictureShowClient.csproj.GenerateResource.cache
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowClient\obj\Debug\PictureShowClient.csproj.CoreCompileInputs.cache
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowClient\obj\Debug\PictureShowClient.exe
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\2021 - 2022 год\3 course\3-M C#\ShowImagesApp2022\ShowImagesApp\PictureShowClient\obj\Debug\PictureShowClient.pdb
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowClient\bin\Debug\PictureShowClient.exe.config
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowClient\bin\Debug\PictureShowClient.exe
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowClient\bin\Debug\PictureShowClient.pdb
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowClient\obj\Debug\PictureShowClient.csproj.AssemblyReference.cache
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowClient\obj\Debug\PictureShowClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowClient\obj\Debug\PictureShowClient.Properties.Resources.resources
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowClient\obj\Debug\PictureShowClient.csproj.GenerateResource.cache
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowClient\obj\Debug\PictureShowClient.csproj.CoreCompileInputs.cache
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowClient\obj\Debug\PictureShowClient.exe
+C:\Users\Anndr\Documents\GitHub\ShowImagesApp\PictureShowClient\obj\Debug\PictureShowClient.pdb
